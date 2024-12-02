@@ -1,0 +1,52 @@
+criaCartao('Tema', 'Qual é o filme que apresenta um anel mágico que deve ser destruído?', 'O Senhor dos Anéis: A Sociedade do Anel.');
+criaCartao('Tema', 'Qual é o nome do robô protagonista em um mundo pós-apocalíptico?', 'WALL-E.');
+criaCartao('Tema', 'Quem é o vilão principal da saga Star Wars?', 'Darth Vader.');
+criaCartao('Tema', 'Qual é o nome do parque temático com dinossauros recriados geneticamente?', 'Jurassic Park.');
+criaCartao('Tema', 'Qual filme apresenta a frase icônica "Eu sou o rei do mundo"?', 'Titanic.');
+criaCartao('Tema', 'Quem é o personagem que luta contra alienígenas em "Independence Day"?', 'Capitão Steven Hiller.');
+criaCartao('Tema', 'Qual filme de animação mostra uma guerra entre brinquedos e novos dispositivos?', 'Toy Story.');
+criaCartao('Tema', 'Em qual filme um tubarão gigante aterroriza uma cidade litorânea?', 'Tubarão (Jaws).');
+criaCartao('Tema', 'Qual é o nome do super-herói que vive em Gotham City?', 'Batman.');
+criaCartao('Tema', 'Quem interpreta o Coringa em "O Cavaleiro das Trevas"?', 'Heath Ledger.');
+criaCartao('Tema', 'Qual é o nome do mágico que vive em Hogwarts?', 'Harry Potter.');
+criaCartao('Tema', 'Qual é o filme sobre um robô que viaja no tempo para proteger Sarah Connor?', 'O Exterminador do Futuro 2.');
+criaCartao('Tema', 'Quem é o diretor da famosa trilogia "O Poderoso Chefão"?', 'Francis Ford Coppola.');
+criaCartao('Tema', 'Qual é o filme musical que conta a história de uma noviça e uma família austríaca?', 'A Noviça Rebelde.');
+criaCartao('Tema', 'Qual é o filme que acompanha um leão chamado Simba?', 'O Rei Leão.');
+criaCartao('Tema', 'Qual é o nome do planeta natal do Superman?', 'Krypton.');
+criaCartao('Tema', 'Qual é o nome do espião fictício mais famoso do cinema?', 'James Bond.');
+criaCartao('Tema', 'Qual é o filme sobre um garoto que descobre que é meio deus?', 'Percy Jackson e o Ladrão de Raios.');
+criaCartao('Tema', 'Qual é o filme que mostra um grupo de mercenários no espaço liderado por Peter Quill?', 'Guardiões da Galáxia.');
+criaCartao('Tema', 'Quem é a personagem principal em "O Diabo Veste Prada"?', 'Andy Sachs.');
+criaCartao('Tema', 'Qual é o filme que se passa em um parque de diversões chamado Isla Nublar?', 'Jurassic World.');
+criaCartao('Tema', 'Qual é o nome do palhaço assustador no filme "It: A Coisa"?', 'Pennywise.');
+criaCartao('Tema', 'Quem é o diretor do filme "A Origem"?', 'Christopher Nolan.');
+criaCartao('Tema', 'Qual é o filme de terror com a frase "Aqui está o Johnny!"?', 'O Iluminado.');
+criaCartao('Tema', 'Qual é o filme que narra a história de um peixe-palhaço em busca de seu filho?', 'Procurando Nemo.');
+criaCartao('Tema', 'Qual é o nome do robô gigante em "Círculo de Fogo"?', 'Jaeger.');
+criaCartao('Tema', 'Qual é o filme onde Tom Hanks interpreta um náufrago?', 'Náufrago.');
+criaCartao('Tema', 'Qual é o nome do planeta desértico em "Duna"?', 'Arrakis.');
+criaCartao('Tema', 'Quem é o assassino mascarado em "Pânico"?', 'Ghostface.');
+criaCartao('Tema', 'Qual é o filme onde um grupo de amigos enfrenta o Demogorgon?', 'Stranger Things: O Filme (hipotético, baseado na série).');
+criaCartao('Tema', 'Qual é o filme musical inspirado nas músicas do ABBA?', 'Mamma Mia!');
+criaCartao('Tema', 'Qual é o filme onde Leonardo DiCaprio interpreta um trapaceiro habilidoso?', 'Prenda-me Se For Capaz.');
+criaCartao('Tema', 'Quem é o protagonista do filme "Piratas do Caribe"?', 'Jack Sparrow.');
+criaCartao('Tema', 'Qual é o nome do filme sobre um alienígena gentil que quer voltar para casa?', 'E.T. - O Extraterrestre.');
+criaCartao('Tema', 'Qual é o filme sobre robôs gigantes disfarçados como veículos?', 'Transformers.');
+criaCartao('Tema', 'Quem é a heroína em "Jogos Vorazes"?', 'Katniss Everdeen.');
+criaCartao('Tema', 'Qual é o filme onde humanos vivem em uma realidade simulada?', 'Matrix.');
+criaCartao('Tema', 'Qual é o nome do mago branco em "O Senhor dos Anéis"?', 'Gandalf.');
+criaCartao('Tema', 'Qual é o nome do diretor de "Pulp Fiction"?', 'Quentin Tarantino.');
+criaCartao('Tema', 'Qual é o filme que explora os sonhos dentro de sonhos?', 'A Origem.');
+criaCartao('Tema', 'Qual é o nome do super-herói interpretado por Chadwick Boseman?', 'Pantera Negra.');
+criaCartao('Tema', 'Qual é o filme que conta a história de um peixe que quer sair de um aquário?', 'Procurando Nemo.');
+criaCartao('Tema', 'Qual é o filme onde Tom Cruise interpreta um piloto da marinha?', 'Top Gun.');
+criaCartao('Tema', 'Qual é o nome do vilão principal em "Vingadores: Ultimato"?', 'Thanos.');
+criaCartao('Tema', 'Qual é o filme que mostra o conto de uma princesa congelada?', 'Frozen.');
+criaCartao('Tema', 'Qual é o nome do filme de espionagem dirigido por Christopher Nolan?', 'Tenet.');
+criaCartao('Tema', 'Qual é o filme que mostra a jornada de amizade entre um robô e um menino em um futuro distópico?', 'O Gigante de Ferro.');
+criaCartao('Tema', 'Qual é o nome do detetive vivido por Daniel Craig na série de filmes "Entre Facas e Segredos"?', 'Benoit Blanc.');
+criaCartao('Qual é o nome do parque temático com dinossauros recriados geneticamente? "Jurassic Park.')
+criaCartao ('Qual filme apresenta a frase icônica "Eu sou o rei do mundo"?"Titanic.')
+
+
